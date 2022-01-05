@@ -14,9 +14,9 @@ Easy to learn, I want to develop in web development, and become a part of the IT
 ---
 # Skills
 ---
--HTML
--CSS
--JS(In the process of studying)
+- HTML
+- CSS
+- JS(In the process of studying)
 ---
 # Experience
 ---
@@ -24,7 +24,7 @@ No experience
 ---
 # Education
 ---
--University: Belarusian National Technical University
+- University: Belarusian National Technical University
 ---
 # English 
 ---

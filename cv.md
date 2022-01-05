@@ -12,3 +12,9 @@
 ---
 Easy to learn, I want to develop in web development, and become a part of the IT sphere.
 ---
+# Skills
+---
+-HTML
+-CSS
+-JS(In the process of studying)
+---

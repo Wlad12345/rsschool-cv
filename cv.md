@@ -18,3 +18,14 @@ Easy to learn, I want to develop in web development, and become a part of the IT
 -CSS
 -JS(In the process of studying)
 ---
+# Experience
+---
+No experience
+---
+# Education
+---
+-University: Belarusian National Technical University
+---
+# English 
+---
+A1(in progress A2)

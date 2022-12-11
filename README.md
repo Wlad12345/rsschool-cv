@@ -1,1 +1,1 @@
-http://wlad12345.github.io/rsschool-cv/cv
+http://wlad12345.github.io/rsschool-cv/
